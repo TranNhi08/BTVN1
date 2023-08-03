@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+  }
+  
+  .image {
+    flex: 1;
+    flex: 1;
+  background-color: 
+  #A73B17; /* Màu cam đất */
+  padding: 20px;
+  }
+  
+  .image img {
+    max-width: 100%;
+    height: auto;}
+  
+  .content {
+    flex: 2;
+    background-color: #d9814a; /* Màu xanh lá */
+    padding: 20px;
+    color: #0c0101;
+  }
+  
+  h1 {
+    margin-left: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+  }
+
+  p {
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    margin-right: 120px;
+  }
+  
+  button {
+    background-color: #A73B17;
+    color: #fcfdfc;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 20px;
+  }
+  
+  
